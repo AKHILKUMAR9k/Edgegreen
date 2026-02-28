@@ -88,3 +88,22 @@ EdgeGreen minimizes cloud dependency and reduces compute carbon footprint.
 
 Puli Akhil Kumar
 B.Tech CSE (Data Science)
+
+
+
+---
+
+## 🏗 Architecture
+
+![Architecture Diagram](architecture_diagram.png)
+
+---
+
+## 📌 Hackathon Submission
+
+Theme: Sustainable AI & Green Tech  
+Prototype Status: Working  
+
+Demo Video: (Will be added after upload)
+
+---
